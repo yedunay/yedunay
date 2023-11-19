@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Yunus Emre</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1144/1*My6kVZDhTdhVd1ygwqj-AQ.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yedunay&label=Profile%20views&color=0e75b6&style=flat" alt="yedunay" /> </p>
 
