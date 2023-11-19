@@ -1,6 +1,7 @@
-[![MasterHead]("https://mir-s3-cdn-cf.behance.net/project_modules/1400/0587f251249217.58e7079c0894c.gif")]
+[![MasterHead]("https://www.yash.com/wp-content/uploads/2021/06/python-blogn-banner2.png")](https://github.com/yedunay)
 <h1 align="center">Hi, I'm Yunus Emre</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1144/1*My6kVZDhTdhVd1ygwqj-AQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yedunay&label=Profile%20views&color=0e75b6&style=flat" alt="yedunay" /> </p>
 
