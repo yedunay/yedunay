@@ -7,9 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yedunay&label=Profile%20views&color=0e75b6&style=flat" alt="yedunay" /> </p>
 
-- 🔭 I’m currently working on **my 42 projects**
+- : 🚀 Final-year Electrical & Electronics Engineering student at Sakarya University with a passion for embedded systems and low-level programming. I’ve spent countless hours working with STM32 and Tiva C microcontrollers, exploring real-time systems and hardware-software integration.
 
-- 🌱 I’m currently learning **C , C++ and Embedded Systems**
+- : 💻 Trained at 42 Kocaeli in project-based, peer-driven environments—built solid foundations in C, C++, and system-level software development through challenging hands-on projects.
+
+- :✈️ Took part in a TÜBİTAK-backed project developing an autonomous low-altitude UAV—seeing it fly was proof of how meaningful deep technical work can be.
+
+- : 🔧 I'm curious by nature, always eager to understand how things work at their core. Whether it's debugging firmware or designing system-level logic, I approach problems with a calm, analytical mindset.
+
+- : 📍Currently diving deeper into advanced embedded technologies—always learning, always building.
+
+
 
 - 📫 How to reach me **yedun4y@gmail.com**
 
